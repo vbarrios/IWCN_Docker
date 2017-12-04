@@ -1,0 +1,5 @@
+com/iwcn/master/entities/Producto.class
+com/iwcn/master/services/DatabaseLoader.class
+com/iwcn/master/repositories/ProductoRepository.class
+com/iwcn/master/SpringServerRest.class
+com/iwcn/master/controllers/AppController.class

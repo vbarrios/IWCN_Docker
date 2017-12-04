@@ -1,0 +1,14 @@
+server:
+  port: 1234
+
+spring:
+  jpa:
+    database: MYSQL
+    hibernate:
+      ddl-auto: validate
+
+  datasource:
+    url: jdbc:mysql://localhost/practicadocker
+    username: victor
+    password: 123456
+    driver-class-name: com.mysql.jdbc.Driver
